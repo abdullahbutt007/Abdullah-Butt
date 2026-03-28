@@ -9,11 +9,9 @@ I'm a Data Analyst based in London, with a Master's in Data Science and a backgr
 - Translate data into clear, actionable insights  
 
 ## 🚀 Featured Projects
-
-### 🧠 Driver Drowsiness Detection System
-- Developed a real-time machine learning system using MediaPipe and XGBoost  
-- Achieved ~88% accuracy with low-latency performance suitable for live use  
-- Detects drowsiness based on eye closure, yawning, and head movement  
+- Driver Drowsiness Detection System  
+- UK Petition Analysis (NLP & ML)  
+- Retail Store Performance Analysis  
 
 ### 📊 Marketing & Sales Analytics
 - Built dashboards to track ROI, conversion rates, and regional performance  
